@@ -4,7 +4,6 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-
         // reference type
         int[] myIntArray = new int[5];
         int[] anotherIntArray = myIntArray;
