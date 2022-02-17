@@ -10,7 +10,6 @@ public class MinElementChallenge {
         System.out.println("Please enter the numbers: ");
         int minimumValue = findMin(readIntegers(5));
         System.out.println("Minimum value is: " + minimumValue);
-
     }
 
     // print array
