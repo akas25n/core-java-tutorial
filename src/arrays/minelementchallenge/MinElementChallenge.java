@@ -1,4 +1,4 @@
-package minelementchallenge;
+package arrays.minelementchallenge;
 
 import java.util.Scanner;
 

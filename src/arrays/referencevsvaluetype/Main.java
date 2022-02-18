@@ -1,4 +1,4 @@
-package referencevsvaluetype;
+package arrays.referencevsvaluetype;
 
 import java.util.Arrays;
 

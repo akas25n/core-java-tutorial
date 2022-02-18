@@ -1,11 +1,11 @@
-package reversearray;
+package arrays.reversearray;
 
 import java.util.Arrays;
 
 public class ReverseArray {
     public static void main(String[] args) {
 
-        int[] myArray = {1, 5, 6, 5, 4};
+        int[] myArray = {1, 5, 6, 4};
         System.out.println("Array: " + Arrays.toString(myArray));
         reverse(myArray);
         System.out.println("Reverse Array: " + Arrays.toString(myArray));
