@@ -1,4 +1,4 @@
-package arrayList.challenge_Part_1;
+package arrayList.contact_list_challenge;
 
 import java.util.ArrayList;
 
