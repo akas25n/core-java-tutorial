@@ -1,5 +1,6 @@
 package arrayList.groceryList;
 
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
@@ -83,5 +84,11 @@ public class Main {
         }else {
             System.out.println(searchItem + " is not in the grocery list.");
         }
+    }
+
+    public static void processArrayList(){
+        ArrayList<String> newList = new ArrayList<>();
+        newList.addAll(groceryList.getGroceryList());
+        System.out.println("The current list is: " + newList);
     }
 }
